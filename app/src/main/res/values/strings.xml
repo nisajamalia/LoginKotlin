@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoginKotlin</string>
+    <string name="lable_name">Name</string>
+    <string name="lable_email">Email</string>
+    <string name="error_empty_field">Field tidak boleh kosong</string>
+    <string name="textJudul">Course Today</string>
+    <string name="username">Name</string>
+    <string name="useremail">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lable_pass">Password</string>
+    <string name="accept">I accept the policy and trem</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup">Sign Up !</string>
+    <string name="hello">Hello</string>
+    <string name="dolphy">DOLPHY</string>
+    <string name="appsta">APPSTA</string>
+    <string name="signupnow">It\'s easior to sign up now</string>
+    <string name="to_facebook">Continue with Facebook</string>
+    <string name="emailphone">I\'ll use email or phone</string>
+    <string name="login">Already have account? Log in</string>
+    <string name="welcome">Welcome, Fill In Your Personal Data</string>
+    <string name="hello_student">Hello Student !</string>
+</resources>
